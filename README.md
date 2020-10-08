@@ -2,9 +2,9 @@
 Analyzes school district performance data to reveal trends driving student performance    
 
 Four Files:
-jupyter notebook with analysis pandas code
-word document containing key analytical takeaways, as well as images of dataframes
-two .csv files containing data referenced by Jupyter notebook
+jupyter notebook with analysis pandas code  
+word document containing key analytical takeaways, as well as images of dataframes  
+two .csv files containing data referenced by Jupyter notebook 
 
 Analyses included: 
 Overall District Metrics	
